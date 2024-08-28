@@ -20,7 +20,10 @@ Users can generate more than one password at a time, making it easier to set up 
 ### User-Friendly Interface: 
 The web app provides an easy-to-use interface for users to customize their password generation preferences without any hassle.
 
-# How It Works
-1.Input Password Preferences: Users can select the password length and choose which character types to include.
-2.Generate Password(s): With a click, the app will generate a secure password (or multiple passwords) based on the selected criteria.
-3.Copy and Use: Users can easily copy the generated password(s) for immediate use.
+## How It Works
+### 1.Input Password Preferences:
+Users can select the password length and choose which character types to include.
+### 2.Generate Password(s): 
+With a click, the app will generate a secure password (or multiple passwords) based on the selected criteria.
+### 3.Copy and Use: 
+Users can easily copy the generated password(s) for immediate use.
